@@ -1,0 +1,51 @@
+MatchID,MatchDate,Venue,CaptainName,TossWonTeam,TossDecision,MatchWinner,WinMargin,PlayerID
+M_1001,29-03-2023,MCG,Virat Kohli,India,Bowl,India,80 runs,IND_102
+M_1002,08-04-2023,Lords,Virat Kohli,India,Bowl,India,6 wickets,IND_102
+M_1003,28-02-2023,MCG,Joe Root,England,Bowl,Pakistan,4 wickets,ENG_132
+M_1004,17-05-2023,SCG,Virat Kohli,Pakistan,Bat,India,8 wickets,IND_102
+M_1005,07-05-2023,Wankhede Stadium,Joe Root,England,Bat,India,7 wickets,ENG_132
+M_1006,16-03-2023,MCG,Babar Azam,Pakistan,Bowl,Pakistan,72 runs,PAK_147
+M_1007,11-04-2023,Wankhede Stadium,Joe Root,England,Bowl,India,3 wickets,ENG_132
+M_1008,16-01-2023,SCG,Babar Azam,Pakistan,Bat,England,8 wickets,PAK_147
+M_1009,25-04-2023,Gaddafi Stadium,Babar Azam,Pakistan,Bat,Pakistan,3 wickets,PAK_147
+M_1010,07-03-2023,SCG,Mitchell Marsh,Australia,Bowl,Australia,38 runs,AUS_117
+M_1011,04-05-2023,Lords,Virat Kohli,India,Bowl,India,6 wickets,IND_102
+M_1012,28-03-2023,Lords,Joe Root,England,Bat,England,69 runs,ENG_132
+M_1013,16-03-2023,MCG,Babar Azam,Pakistan,Bat,Pakistan,4 wickets,PAK_147
+M_1014,14-03-2023,Wankhede Stadium,Virat Kohli,Pakistan,Bat,Pakistan,4 wickets,IND_102
+M_1015,09-04-2023,Lords,Virat Kohli,India,Bowl,India,7 wickets,IND_102
+M_1016,19-05-2023,Eden Gardens,Babar Azam,England,Bat,England,21 runs,PAK_147
+M_1017,03-01-2023,Eden Gardens,Virat Kohli,Pakistan,Bowl,India,4 wickets,IND_102
+M_1018,29-05-2023,Eden Gardens,Joe Root,Pakistan,Bat,England,8 wickets,ENG_132
+M_1019,09-02-2023,SCG,Joe Root,England,Bat,Pakistan,74 runs,ENG_132
+M_1020,20-05-2023,MCG,Virat Kohli,Australia,Bat,India,64 runs,IND_102
+M_1021,21-03-2023,Wankhede Stadium,Mitchell Marsh,India,Bat,Australia,4 wickets,AUS_117
+M_1022,25-03-2023,Lords,Mitchell Marsh,Australia,Bat,England,6 wickets,AUS_117
+M_1023,23-02-2023,SCG,Joe Root,Pakistan,Bat,England,3 wickets,ENG_132
+M_1024,30-01-2023,SCG,Virat Kohli,India,Bowl,Pakistan,3 wickets,IND_102
+M_1025,08-05-2023,MCG,Joe Root,England,Bat,Pakistan,4 wickets,ENG_132
+M_1026,20-03-2023,Wankhede Stadium,Joe Root,England,Bat,England,30 runs,ENG_132
+M_1027,28-04-2023,Eden Gardens,Virat Kohli,India,Bowl,Australia,58 runs,IND_102
+M_1028,17-03-2023,Eden Gardens,Babar Azam,Australia,Bat,Australia,8 wickets,PAK_147
+M_1029,17-03-2023,Wankhede Stadium,Virat Kohli,Australia,Bowl,India,77 runs,IND_102
+M_1030,23-03-2023,MCG,Mitchell Marsh,Australia,Bowl,Australia,3 wickets,AUS_117
+M_1031,26-04-2023,Gaddafi Stadium,Mitchell Marsh,Australia,Bowl,Pakistan,4 wickets,AUS_117
+M_1032,28-04-2023,SCG,Mitchell Marsh,Australia,Bowl,Australia,4 wickets,AUS_117
+M_1033,20-03-2023,SCG,Mitchell Marsh,Pakistan,Bowl,Australia,64 runs,AUS_117
+M_1034,15-03-2023,Wankhede Stadium,Babar Azam,Pakistan,Bowl,England,6 wickets,PAK_147
+M_1035,08-02-2023,MCG,Joe Root,England,Bowl,India,25 runs,ENG_132
+M_1036,10-04-2023,Eden Gardens,Mitchell Marsh,England,Bat,England,54 runs,AUS_117
+M_1037,12-03-2023,SCG,Virat Kohli,India,Bowl,India,80 runs,IND_102
+M_1038,31-05-2023,Gaddafi Stadium,Joe Root,England,Bat,England,8 wickets,ENG_132
+M_1039,08-01-2023,Gaddafi Stadium,Joe Root,Australia,Bat,Australia,15 runs,ENG_132
+M_1040,08-04-2023,MCG,Babar Azam,India,Bowl,Pakistan,35 runs,PAK_147
+M_1041,28-03-2023,Eden Gardens,Babar Azam,England,Bat,England,5 wickets,PAK_147
+M_1042,31-01-2023,Eden Gardens,Babar Azam,Pakistan,Bat,India,19 runs,PAK_147
+M_1043,30-05-2023,Eden Gardens,Virat Kohli,India,Bat,India,27 runs,IND_102
+M_1044,11-03-2023,MCG,Mitchell Marsh,India,Bowl,Australia,5 wickets,AUS_117
+M_1045,07-05-2023,Gaddafi Stadium,Virat Kohli,India,Bat,India,6 wickets,IND_102
+M_1046,08-04-2023,Lords,Mitchell Marsh,Pakistan,Bat,Australia,4 wickets,AUS_117
+M_1047,24-03-2023,Gaddafi Stadium,Joe Root,England,Bowl,England,3 wickets,ENG_132
+M_1048,28-04-2023,Eden Gardens,Joe Root,England,Bowl,England,7 wickets,ENG_132
+M_1049,21-04-2023,Eden Gardens,Joe Root,England,Bowl,Pakistan,3 wickets,ENG_132
+M_1050,18-05-2023,Eden Gardens,Joe Root,Australia,Bat,England,6 wickets,ENG_132
